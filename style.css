@@ -1,0 +1,111 @@
+.body {
+	background-color: #81F7F3;
+}
+
+#head {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 20px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: underline;
+}
+
+#mainmenu {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: none;
+}
+
+#content {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: none;
+}
+
+#pagetitle {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: underline;
+}
+
+#pagemenu {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: none;	
+}
+
+#modulefilter {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: none;	
+}
+
+#modulliste {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: none;	
+}
+
+#modultable {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: none;	
+}
+
+#klassenfilter {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: none;	
+}
+
+#classtable {
+	font-family: sans-serif;
+	font-weight: bold;	
+	font-size: 16px;
+	padding: 20px;
+	color: #000000;
+	text-decoration: none;	
+}
+
+.button {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.button:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+
+
+
+
+
+
